@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Raj</h1>
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -8,20 +10,29 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
+
 <p align="left">
-  <a href="https://linkedin.com/in/Codac-anmol" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourwebsite.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Codac-anmol" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:anmolraj5767@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Codac-anmol&style=for-the-badge&color=brightgreen" /> </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Codac-anmol&style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
-
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,react,nodejs,mongodb,git,github,vscode,linux,figma" />
 </p>
 
@@ -38,6 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codac-anmol&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/anmolrajdev/anmolrajdev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</p>
 
 ---
 
@@ -49,21 +63,10 @@
 
 ---
 
-
-
-
-
-### ⚡ Fun Facts / Personal Motto
+### ⚡ Fun Facts / Motto
 
 ```txt
-🔭 I’m currently working on: Full-stack AI dashboard  
-🌱 I’m currently learning: Rust + WebAssembly  
-⚡ Fun fact: I use tabs over spaces, every time  
-🚀 Motto: Build. Break. Rebuild Smarter.
-
-
-- 👋 Hi, I’m @Codac-anmol
-- 🌱 I’m currently learning to code
-- 👀 I’m curious about all divisions of programming and devevlopment so exploaring all to know which is most exciting cooking to me 
-- 📫 to reach me anmolraj5767@gmail.com
-- 
+- 👋 Hey, I'm @Codac-anmol
+- 🌱 Currently learning and growing in full-stack & AI domains
+- 👀 Exploring all areas of development to find the one that sparks the most joy
+- 📫 Reach me at: anmolraj5767@gmail.com
