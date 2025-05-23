@@ -146,11 +146,13 @@ const anmol = {
 - 📚 Sharing knowledge through blogs and tutorials
 
 <!-- Animated Divider -->
+<!-- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Codac-anmol&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+-->
 
 <!-- Random Dev Quote -->
 <div align="center">
@@ -159,8 +161,8 @@ const anmol = {
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Codac-anmol&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Codac-anmol?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=Codac-anmol&label=Profile%20Views&color=green&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Codac-anmol?label=Followers&style=for-the-badge&color=green&labelColor=0D1117" />
 </div>
 
 <!-- Animated Footer -->
