@@ -23,7 +23,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Codac-anmol/Codac-anmol/output/github-contribution-grid-snake-dark.svg" />
 
 
 ---
