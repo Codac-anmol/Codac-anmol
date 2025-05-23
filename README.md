@@ -38,7 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codac-anmol&layout=compact&theme=radical" />
 </p>
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
