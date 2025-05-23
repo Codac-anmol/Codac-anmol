@@ -140,11 +140,11 @@ const anmol = {
 <div align="center">
 
 ### 🎯 Current Goals
-- 🚀 Building scalable web applications
-- 📱 Exploring mobile app development
-- 🤖 Learning AI/ML technologies
-- 🌟 Contributing to open source projects
-- 📚 Sharing knowledge through blogs and tutorials
+     🚀 Building scalable web applications
+    📱 Exploring mobile app development
+    🤖 Learning AI/ML technologies
+    🌟 Contributing to open source projects
+    📚 Sharing knowledge through blogs and tutorials
 
 <!-- Animated Divider -->
 <!-- 
