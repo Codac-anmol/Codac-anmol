@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/anmolrajdev/Codac-anmol/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+ ![Snake animation](https://github.com/Codac-anmol/Codac-anmol/blob/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 ---
