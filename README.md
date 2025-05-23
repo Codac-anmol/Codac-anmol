@@ -176,38 +176,4 @@ const anmol = {
 </div>
 ```
 
-This README includes:
-
-🎨 **Visual Features:**
-- Animated header with cyberpunk wave effect
-- Glitch-style typing animation
-- Neon-themed color scheme (cyan/blue glow)
-- Multiple animated dividers
-- Terminal-style ASCII art sections
-
-🛠️ **Technical Elements:**
-- Skill icons with dark theme
-- GitHub stats with Tokyo Night theme
-- Contribution snake animation
-- Trophy display
-- Activity graphs and streak stats
-
-🌟 **Interactive Components:**
-- Animated social media buttons
-- Hover-ready badges
-- Profile view counter
-- Follower counter
-
-📱 **Responsive Design:**
-- Mobile-friendly layout
-- Centered alignment
-- Proper spacing and organization
-
-🔗 **Placeholder Links:**
-- LinkedIn: `https://linkedin.com/in/your-linkedin-profile`
-- Email: `your.email@example.com`
-- Portfolio: `https://your-portfolio-website.com`
-- Twitter: `https://twitter.com/your-twitter-handle`
-
-Simply copy this markdown code into your GitHub profile README.md file and update the placeholder links with your actual social media profiles and contact information!
 
