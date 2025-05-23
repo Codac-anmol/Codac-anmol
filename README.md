@@ -24,9 +24,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Codac-anmol&style=for-the-badge&color=brightgreen" />
-</p>
+<img src="https://raw.githubusercontent.com/Codac-anmol/Codac-anmol/output/github-contribution-grid-snake-dark.svg" />
+
 
 ---
 
