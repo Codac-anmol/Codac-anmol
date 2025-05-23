@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive%20Programmer;Full-stack%20Web%20Developer;ML%20Enthusiast;Problem%20Solver;Tech%20Explorer&center=true&width=500&height=45">
 </p>
