@@ -29,20 +29,21 @@
 ```javascript
 const anmol = {
     pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Gaming"],
+    code: ["JavaScript", "Python", "C++", "TypeScript", "Java"],
+    askMeAbout: ["Web Dev", "Tech", "AI&ML", "Gaming"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+            css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
+            java:["Collection", "Jdbc"],
             js: ["Node.js", "Express"],
             python: ["Django", "Flask"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"]
+            databases: ["MongoDB", "MySQL"]
         },
         devOps: ["Docker", "AWS", "Heroku", "Netlify"],
-        tools: ["Git", "VS Code", "Figma", "Postman"]
+        tools: ["Git", "VS Code", "Figma", "intelij"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() and I'm proud of it! 😄"
@@ -56,8 +57,8 @@ const anmol = {
 
 ## 🛠️ Tech Stack & Skills
 
-<!-- Skill Icons with Glow Effect -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,cpp,html,css,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,vscode,figma,docker,aws&theme=dark&perline=7" />
+<!-- Skill Icons with Glow Effect ts,react,nextjs,mongodb,postgresql,aws -->
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,java,cpp,html,css,tailwind,bootstrap,mysql,git,github,vscode,figma,docker,idea&theme=dark&perline=7" />
 
 <!-- Cute Badges -->
 <br><br>
